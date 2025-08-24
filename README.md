@@ -1,10 +1,8 @@
-# MATLAB_fandamental_control
-
-MATLAB live script files for fandamental control design and analysis. 
-
 # MATLAB Fundamental Control - Live Script Files
 
 MATLAB Live Script files for fundamental control system design and analysis.
+
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Hiroshi-Okajima/MATLAB_fandamental_control-LiveScriptFiles-)
 
 ## Contents
 
@@ -31,13 +29,6 @@ Interactive MATLAB Live Scripts covering:
 
 Each Live Script combines explanations, code, and visualizations for interactive learning. Modify parameters to explore different scenarios and understand control system behavior.
 
-## Author
-
-Hiroshi Okajima  
-Associate Professor, Kumamoto University
-
 ## License
 
 Educational use. Please cite appropriately if used in academic work.
-
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Hiroshi-Okajima/MATLAB_fandamental_control-LiveScriptFiles-)
